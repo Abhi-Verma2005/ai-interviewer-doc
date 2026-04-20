@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/AI_Interview_Platform.html" }
+  ]
+}
